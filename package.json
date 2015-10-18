@@ -1,0 +1,19 @@
+{
+  "name": "try-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jfoshee/try-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfoshee/try-node/issues"
+  },
+  "homepage": "https://github.com/jfoshee/try-node"
+}
